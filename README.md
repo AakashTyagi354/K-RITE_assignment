@@ -59,6 +59,6 @@ Tech Stack : Reactjs, Redux, Tailwindcss
 
 live link of the assignment 
 
-https://karkhanaio-frontend.vercel.app/
+https://k-rite-assignment.vercel.app/
 
 
