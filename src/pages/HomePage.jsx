@@ -11,7 +11,7 @@ export default function HomePage() {
             Discover Your Next Favorite Thing at{" "}
             <span className="text-blue-700 text-4xl tracking-wider leading-[2px]">
               {" "}
-              vCrafts - Shop the Latest Trends Today!
+              K-RITE - Shop the Latest Trends Today!
             </span>
           </p>
           <p className="text-sm text-gray-500 ml-12 mt-4 tracking-wider">

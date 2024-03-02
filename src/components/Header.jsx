@@ -10,7 +10,7 @@ export default function Header() {
     <MaxWidthWrapper className="h-14 sticky top-0 z-50 bg-white">
       <div className="flex h-full items-center justify-between border-b border-gray-200">
         <div className="text-2xl font-semibold">
-          <Link to="/">karkhanaio</Link>
+          <Link to="/">K-RITE</Link>
         </div>
         <div className="flex items-center space-x-4">
           <div className=" p-2    border-r border-gray-200 ">
